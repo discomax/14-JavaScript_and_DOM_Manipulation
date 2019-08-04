@@ -1,5 +1,4 @@
-# 14-Javascript_and_DOM_Manipulation
-Assignment - JavaScript and DOM Manipulation
+# JavaScript and DOM Manipulation
 
 ## Background
 
